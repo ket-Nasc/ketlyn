@@ -1,5 +1,5 @@
 body{
-background-color: violet;
+background-color: rgb(247, 144, 247);
 }
 
  h1{
@@ -9,8 +9,8 @@ background: lightsteelblue;
 }
 
 p{
-color:pink ;
+color:black ;
 font-family: georgia;
-font-size: 30px;
+font-size: 25px;
 background: ;
 }
